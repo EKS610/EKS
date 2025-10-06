@@ -1,21 +1,21 @@
 # EKS
 <h1 align="center">Hi 👋, I'm Khawaja Sharif</h1>
-<h3 align="center">The future scope for ethical hacking</h3>
+<h3 align="center">Practicing ethical hacking</h3>
 
 <p align="left"> <img src="" alt="eks610" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eks610&label=Profile%20views&color=0e75b6&style=flat" alt="eks610" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eks610" alt="eks610" /></a> </p>
 
-- 🔭 I’m currently working on **IT Consultant**
+- 🔭 I’m currently working as **IT Consultant**
 
-- 🌱 I’m currently learning **Ethical Hacking focusing Penestring**
+- 🌱 I’m currently learning **Ethical Hacking Penetration testing method**
 
-- 👯 I’m looking to collaborate on **Awareness on cyber security**
+- 👯 I’m looking to collaborate on **To give Awareness on cyber security for universal**
 
 - 🤝 I’m looking for help with **Internship**
 
-- 📝 I regularly write articles on [not yet](not yet)
+- 📝 I regularly write articles (comming soon)
 
 - 📫 How to reach me **mylucky7t@gmail.com**
 
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ */ <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />*/
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
