@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khawaja Sharif</h1>
 <h3 align="center">The future scope for ethical hacking</h3>
 
+<p align="left"> <img src="" alt="eks610" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eks610&label=Profile%20views&color=0e75b6&style=flat" alt="eks610" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eks610" alt="eks610" /></a> </p>
